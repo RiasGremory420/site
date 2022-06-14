@@ -1,0 +1,17 @@
+/*
+Custom Css
+*/
+.centerimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.poll-question__title {
+    font-weight: 500 !important;
+}
+
+#ebo a:hover { color:#00ff08;}
+
+}
